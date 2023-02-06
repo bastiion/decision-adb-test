@@ -1,0 +1,125 @@
+{
+  "updated": "2023-02-06T17:21:56+01:00",
+  "scores": [
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "weight"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "typo3_value01"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "typo3_value02",
+      "score": 4
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "typo3_value03",
+      "score": 4
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "typo3_value04",
+      "score": 2
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "next_value01",
+      "score": 4
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "next_value02",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "next_value03"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "next_value04"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "weight"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "typo3_value01"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "typo3_value02",
+      "score": 4
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "typo3_value03",
+      "score": 4
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "typo3_value04",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "next_value01",
+      "score": 5
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "next_value02",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "next_value03"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#a484e1b546d1f389d51ec56f3ce51a441e783140d95d5e94c2dcb31d0b086f3c",
+      "key": "next_value04"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "weight"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "typo3_value01"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "typo3_value02"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "typo3_value03"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "typo3_value04",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "next_value01",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "next_value02"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "next_value03"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#ecc79aefd0d72d41b8cb46dd00c3937eff9b6d9dcbec74497e42ce97da9cd1a8",
+      "key": "next_value04"
+    }
+  ]
+}
