@@ -1,5 +1,5 @@
 {
-  "updated": "2023-02-06T17:21:56+01:00",
+  "updated": "2023-02-16T12:04:09+01:00",
   "scores": [
     {
       "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
@@ -40,6 +40,46 @@
     },
     {
       "criteria": "http://lod.data.slub-dresden.de/entity#93658a8ab04a9875cdcd04dcecfe2d53052b78cba3636a9a199443d2109252e2",
+      "key": "next_value04"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "weight"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "typo3_value01"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "typo3_value02",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "typo3_value03",
+      "score": 4
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "typo3_value04",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "next_value01",
+      "score": 3
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "next_value02"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
+      "key": "next_value03"
+    },
+    {
+      "criteria": "http://lod.data.slub-dresden.de/entity#7ca689169586e254c49aae3938254201c0ed8f49ac89619aa92c00d38ce6fa1f",
       "key": "next_value04"
     },
     {
